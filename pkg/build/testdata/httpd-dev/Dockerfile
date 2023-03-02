@@ -1,1 +1,1 @@
-FROM httpd AS development
+FROM httpd:2-bullseye AS development
