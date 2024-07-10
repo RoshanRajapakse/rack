@@ -1,3 +1,3 @@
-FROM ubuntu:16.04
+FROM ubuntu:xenial-20201014
 
 CMD bash
